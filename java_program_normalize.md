@@ -1,18 +1,20 @@
 #java 个人编程规范
+##eclipse设置utf-8编码
+    Window -> Preferences -> General -> Workspace -> Text file encodeing
+    设置为utf-8
 
 ##注释
 
 ###类注释
-####eclipse设置
-Window -> Preferences -> java -> Code Style -> Code Template
-
+####eclipse设置位置
+    Window -> Preferences -> java -> Code Style -> Code Template
+####eclipse设置内容
     /**
     * @Author linguanghuan
     * @Time ${time}
     * @Desc 
     *    
     */
-    
 ####例子
     /**
     * @Author linguanghuan
