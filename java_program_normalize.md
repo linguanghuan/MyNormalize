@@ -1,9 +1,9 @@
-#java ¸öÈË±à³Ì¹æ·¶
+#java ä¸ªäººç¼–ç¨‹è§„èŒƒ
 
-##×¢ÊÍ
+##æ³¨é‡Š
 
-###Àà×¢ÊÍ
-####eclipseÉèÖÃ
+###ç±»æ³¨é‡Š
+####eclipseè®¾ç½®
 Window -> Preferences -> java -> Code Style -> Code Template
 
     /**
@@ -13,43 +13,43 @@ Window -> Preferences -> java -> Code Style -> Code Template
     *    
     */
     
-####Àý×Ó
+####ä¾‹å­
     /**
     * @Author linguanghuan
     * @Time 2017-01-09 14:41:55
     * @Desc 
-    *    linux c zlib¿â µÄjava½âÑ¹·½Ê½
+    *    linux c zlibåº“ çš„javaè§£åŽ‹æ–¹å¼
     */
 
 
-###º¯Êý×¢ÊÍ
+###å‡½æ•°æ³¨é‡Š
     /**
     *@Desc
     *
     */
-####Àý×Ó
+####ä¾‹å­
     /**
     * @Desc
-    *   ³õÊ¼»¯ÅäÖÃ
+    *   åˆå§‹åŒ–é…ç½®
     */
 
-##´úÂë
-###ÀàÃû
-    Ê¹ÓÃ UpperCamelCase·ç¸ñ£¬±ØÐë×ñ´ÓÍÕ·åÐÎÊ½£¬µ«ÒÔÏÂÇéÐÎÀýÍâ£º£¨ÁìÓòÄ£ÐÍµÄÏà¹ØÃüÃû£© DO / DTO / VO / DAO µÈ
-    Àý×Ó£ºUserDO XmlService TaPromotion
-###·½·¨Ãû
-    ·½·¨Ãû¡¢²ÎÊýÃû¡¢³ÉÔ±±äÁ¿¡¢¾Ö²¿±äÁ¿¶¼Í³Ò»Ê¹ÓÃ lowerCamelCase·ç¸ñ£¬±ØÐë×ñ´ÓÍÕ·åÐÎÊ½¡£
-    Àý×Ó£º userId getHttpMessage()
+##ä»£ç 
+###ç±»å
+    ä½¿ç”¨ UpperCamelCaseé£Žæ ¼ï¼Œå¿…é¡»éµä»Žé©¼å³°å½¢å¼ï¼Œä½†ä»¥ä¸‹æƒ…å½¢ä¾‹å¤–ï¼šï¼ˆé¢†åŸŸæ¨¡åž‹çš„ç›¸å…³å‘½åï¼‰ DO / DTO / VO / DAO ç­‰
+    ä¾‹å­ï¼šUserDO XmlService TaPromotion
+###æ–¹æ³•å
+    æ–¹æ³•åã€å‚æ•°åã€æˆå‘˜å˜é‡ã€å±€éƒ¨å˜é‡éƒ½ç»Ÿä¸€ä½¿ç”¨ lowerCamelCaseé£Žæ ¼ï¼Œå¿…é¡»éµä»Žé©¼å³°å½¢å¼ã€‚
+    ä¾‹å­ï¼š userId getHttpMessage()
 
-##ÆäËû
-###Ëõ½ø4¸ö¿Õ¸ñ
-####eclipseÉèÖÃ
+##å…¶ä»–
+###ç¼©è¿›4ä¸ªç©ºæ ¼
+####eclipseè®¾ç½®
     Window -> Preferences -> Editor -> TextEditors -> Insert space for tabs (checked) 
     Window -> Preferences -> Java -> Code Style -> Formatter -> Edit -> Tab policy -> Spaces only
     
     
-##²Î¿¼
-    °¢Àï°Í°ÍJava¿ª·¢ÊÖ²á£¨¹«¿ª°æ£©.pdf
+##å‚è€ƒ
+    é˜¿é‡Œå·´å·´Javaå¼€å‘æ‰‹å†Œï¼ˆå…¬å¼€ç‰ˆï¼‰.pdf
 
     
 

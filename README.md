@@ -1,5 +1,5 @@
-# ¸öÈË¹æ·¶»¯ÎÄµµ
+# ä¸ªäººè§„èŒƒåŒ–æ–‡æ¡£
 ##java_program_normalize.md
-    java¸öÈË±à³Ì¹æ·¶
+    javaä¸ªäººç¼–ç¨‹è§„èŒƒ
 ##linux_c_program_normalize.md
-    linux c ¸öÈË±à³Ì¹æ·¶
+    linux c ä¸ªäººç¼–ç¨‹è§„èŒƒ
